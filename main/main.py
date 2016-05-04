@@ -13,7 +13,7 @@ def main():
     person.eat_bananas()
 
 def b():
-    print('yo')
+    print('oys')
 
 def a():
     b()
